@@ -14,7 +14,11 @@
 
 ## About
 
-<p> This is a revised version of the original portfolio assignment. I'm responsible for all of the content, including images, HTML and custom CSS. The page was revised in response to suggestions for improvement made by one of the coding bootcamp's excellent TAs. Revisions include:
+<p>PLEASE NOTE: Because of issues I was having with the original repo, I created a new repo for this new version of my portfolio. The original repo can be found here: <a href="https://github.com/JoeMerrell/portfolio" target="_blank">Joe Merrell portfolio original repo</a></p>
+
+
+
+<p>This is a revised version of the original portfolio assignment. I'm responsible for all of the content, including images, HTML and custom CSS. The page was revised in response to suggestions for improvement made by one of the coding bootcamp's excellent TAs. Revisions include:
 </p>
 
 
